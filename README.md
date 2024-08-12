@@ -44,12 +44,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    ## &#x1f4c8; GitHub Stats
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-cypher&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tony-cypher&show_icons=true&locale=en" alt="tony-cypher" /></p>
-
-  <img width=390 src="https://github-readme-streak-stats-tony-cypher.vercel.app/?user=tony-cypher&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-tony-cypher.vercel.app/api?username=tony-cypher&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=tony-cypher&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tony-cypher&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-tony-cypher.vercel.app/api/top-langs/?username=tony-cypher&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-cypher&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
