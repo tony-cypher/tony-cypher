@@ -44,6 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    ## &#x1f4c8; GitHub Stats
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-cypher&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tony-cypher&show_icons=true&locale=en" alt="tony-cypher" /></p>
 
