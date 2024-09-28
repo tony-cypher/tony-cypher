@@ -30,8 +30,11 @@
 </div>
 
 <hr/>
-<b> Link to some live projects</b><br/>
-- **Instagram clone** <h5>https://tonycypher.pythonanywhere.com/</h5>
+<div align="center">
+    <h3> Link to some live projects</h3>
+    <h5><strong>Instagram clone:  </strong>https://tonycypher.pythonanywhere.com/</h5>
+</div>
+
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
