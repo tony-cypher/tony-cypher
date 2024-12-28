@@ -32,6 +32,8 @@
 <hr/>
 <div align="center">
     <h3> Link to some live projects</h3>
+    <h5><strong>Chat application(whatsapp):  </strong>https://chatapp-av6d.onrender.com</h5>
+    <h5><strong>Twitter clone:  </strong>https://twitter-clone-2qar.onrender.com</h5>
     <h5><strong>Instagram clone:  </strong>https://tonycypher.pythonanywhere.com/</h5>
 </div>
 
