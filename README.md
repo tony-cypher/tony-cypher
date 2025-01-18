@@ -35,6 +35,7 @@
     <h5><strong>Chat application(whatsapp):  </strong>https://chatapp-av6d.onrender.com</h5>
     <h5><strong>Twitter clone:  </strong>https://twitter-clone-2qar.onrender.com</h5>
     <h5><strong>Instagram clone:  </strong>https://tonycypher.pythonanywhere.com/</h5>
+    <h5><strong>Social APP(NEXTJS):</strong>https://social-next-js.vercel.app/</h5>
 </div>
 
 <hr/>
@@ -42,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,django,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,typescript,nextjs" /><br>
 </div>
 
 <br/>
