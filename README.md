@@ -1,60 +1,93 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tony-cypher.tony-cypher" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anaeto+Anthony+(cypher);" />
-</h1>
-
-<h3 align="center">A passionate software developer</h3>
-
-<br/>
-
 <div align="center">
+  <h1 align="center">Hi there, I'm Anthony Ifeanyi 👋</h1>
+  <p align="center">
+    <strong>Software / Product Engineer</strong>
+  </p>
+  <p align="center">
+    Architecting scalable, production-grade web platforms and fluid cross-platform mobile apps. Focused on clean architecture, high-performance APIs, robust testing, and modern cloud deployment.
+  </p>
+</div>
 
-  😊 Loves problem solving and the feeling that comes after it
+---
 
- 🌱 I’m currently learning and Advancing on **Python and Django**
+### 🚀 About Me
 
- ⚡ I’m looking forward to add **NextJS, React and Node.js** to my stack
+- 💼 **Focus:** Full-stack web architectures, distributed systems & responsive cross-platform mobile applications.
+- 🧱 **Methodology:** Clean Architecture, Domain-Driven Design, Type Safety, and automated CI/CD pipelines.
+- 💬 **Collaborations:** Available for full-time Software Engineer positions, high-impact contract roles, and open-source initiatives.
 
-💬 Ask me about **Python, Django, Backend... or anything [here](https://github.com/tony-cypher/tony-cypher/issues)**
+---
 
- </div>
+### 💻 Tech Stack & Skills
 
- <div align="center"> 
-  <a href="mailto:tonycypher0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<h4 align="center">🔹 Programming Languages</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,php,cs,cpp,html,css&perline=12" alt="Languages" />
   </a>
-  <a href="https://www.linkedin.com/in/anaeto-anthony-ifeanyi-6583b2273/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</p>
+
+<h4 align="center">🔹 Frameworks & Runtimes (Web, Frontend, Mobile & Backend)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,nodejs,nestjs,express,react,nextjs,redux,tailwind,flutter&perline=12" alt="Frameworks and Libraries" />
   </a>
-</div>
+  <br />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="48" height="48" title="React Native" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" width="48" height="48" title="Expo" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="48" height="48" title="GraphQL" />
+</p>
 
-<hr/>
+<h4 align="center">🔹 Databases & Cloud Hosting</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,aws,gcp,vercel,netlify,heroku&perline=12" alt="Databases and Cloud" />
+  </a>
+</p>
+
+<h4 align="center">🔹 Tools, DevOps & Testing</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux,bash,nginx,postman,jest,pytest&perline=12" alt="DevOps, Tools and Testing" />
+  </a>
+</p>
+
+---
+
+### 📊 Engineering Activity & Metrics
+
 <div align="center">
-    <h3> Link to some live projects</h3>
-    <h5><strong>Chat application(whatsapp):  </strong>https://chatapp-av6d.onrender.com</h5>
-    <h5><strong>Twitter clone:  </strong>https://twitter-clone-2qar.onrender.com</h5>
-    <h5><strong>Instagram clone:  </strong>https://tonycypher.pythonanywhere.com/</h5>
-    <h5><strong>Social APP(NEXTJS):</strong>https://social-next-js.vercel.app/</h5>
+  <img src="https://github-readme-stats.vercel.app/api?username=tony-cypher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-cypher&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
-<hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,javascript,typescript,express,react,nextjs,prisma," /> <br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,tailwindcss,vscode,git,github" />
-   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tony-cypher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=tony-cypher&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tony-cypher&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-cypher&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:tonycypher0@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/anaeto-anthony-ifeanyi-6583b2273/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/your-handle" target="_blank" title="Twitter / X">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter/X" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>Engineered by Anthony Ifeanyi • Ready for opportunities worldwide</sub>
 </div>
+
